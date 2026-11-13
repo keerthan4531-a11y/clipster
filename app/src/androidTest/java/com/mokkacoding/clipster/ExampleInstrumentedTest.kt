@@ -1,4 +1,4 @@
-﻿package com.mokkacoding.clipster
+package com.mokkacoding.clipster
 
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import androidx.test.platform.app.InstrumentationRegistry
